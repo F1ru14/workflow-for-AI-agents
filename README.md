@@ -2,6 +2,8 @@
 
 This is the main project repository. It contains the structure needed for an AI-agent-driven development workflow.
 
+> **Note**: This workflow is from the GDG workshop.
+
 ## Directory Structure
 
 - `.agents/`: Contains configurations, specialized skills, and automated workflows for AI agents (e.g., Antigravity).
